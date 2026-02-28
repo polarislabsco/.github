@@ -1,16 +1,16 @@
 
 ---
 
-# .exe Studios
+# ⭐ Polaris Labs
 
-Welcome to the official GitHub organization for **.exe Studios**. We are a premier FiveM development collective focused on pushing the boundaries of the CFX.re platform through high-performance scripting, immersive UI design, and robust backend architecture.
+Welcome to the official GitHub organization for **Polaris Labs**. We are a premier FiveM development collective focused on pushing the boundaries of the CFX.re platform through high-performance scripting, immersive UI design, and robust backend architecture.
 
 ## 👑 The Founders
 
 .exe Studios was established by:
 
-* **Murderotica**
-* **filo**
+* **.murderotica.**
+* **blame.filo**
 
 ---
 
