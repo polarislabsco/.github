@@ -7,7 +7,7 @@ Welcome to the official GitHub organization for **Polaris Labs**. We are a premi
 
 ## 👑 The Founders
 
-.exe Studios was established by:
+Polaris Labs was established by:
 
 * **.murderotica.**
 * **blame.filo**
