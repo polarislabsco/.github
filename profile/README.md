@@ -29,7 +29,7 @@ If you are using one of our public resources, you can typically get started by c
 
 ```bash
 cd server-data/resources
-git clone https://github.com/dotexestudios/repository-name.git
+git clone https://github.com/polarislabsco/repository-name.git
 
 ```
 
